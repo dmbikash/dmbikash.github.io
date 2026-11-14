@@ -1,0 +1,24 @@
+{
+  "name": "DM Bikash",
+  "shortName": "DB",
+  "role": "Flutter Developer | Mobile Application Engineer",
+  "headline": "Building seamless digital experiences through mobile engineering.",
+  "intro": "I lead Flutter apps end to end — from requirements and architecture to Play Store release — for government programmes, international development partners and SaaS products.",
+  "yearsOfExperience": 4,
+  "location": "Dhaka, Bangladesh",
+  "availability": {
+    "show": true,
+    "label": "Open to new opportunities"
+  },
+  "cv": "/documents/cv.pdf",
+  "socials": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/YOUR-HANDLE", "icon": "linkedin" },
+    { "label": "GitHub", "url": "https://github.com/YOUR-USERNAME", "icon": "github" }
+  ],
+  "highlights": [
+    { "label": "Experience", "value": "4 years", "detail": "Production Flutter apps, lead role" },
+    { "label": "Core stack", "value": "Flutter & Dart", "detail": "Android · iOS · Web from one codebase" },
+    { "label": "Delivered for", "value": "UNDP · UN Women · CARE", "detail": "Plus government and SaaS clients" },
+    { "label": "Currently", "value": "Bangladesh Army", "detail": "Mobile Application Developer" }
+  ]
+}

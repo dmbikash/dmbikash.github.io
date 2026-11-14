@@ -1,0 +1,72 @@
+{
+  "title": "Professional experience",
+  "intro": "From junior engineer to leading mobile delivery — newest first.",
+  "items": [
+    {
+      "organization": "Bangladesh Army",
+      "role": "Mobile Application Developer",
+      "employmentType": "Full-time",
+      "startDate": "[[YYYY-MM]]",
+      "endDate": null,
+      "current": true,
+      "location": "Bangladesh",
+      "description": "Designing and developing cross-platform mobile applications with Flutter and Dart. Project specifics are confidential and are intentionally not described here.",
+      "responsibilities": [
+        "[[Responsibility — describe in general terms, without restricted details]]",
+        "[[Responsibility 2]]"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "achievements": []
+    },
+    {
+      "organization": "Catch Bangladesh Ltd.",
+      "role": "Software Engineer",
+      "employmentType": "Full-time",
+      "startDate": "2023-06",
+      "endDate": "[[YYYY-MM]]",
+      "current": false,
+      "description": "Designed and developed cross-platform mobile applications and SaaS products from scratch, working directly with project managers and clients.",
+      "responsibilities": [
+        "Built apps end to end: API integration (including third-party APIs), state management and responsive UI",
+        "Integrated Firebase for authentication, database and push notifications",
+        "Communicated directly with clients and collaborated closely with project managers",
+        "Provided field-level training and mentorship to junior developers and interns",
+        "Managed project tasks in Trello, maintained code in Git and released apps to the Play Store"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "Git",
+        "Trello",
+        "Google Play"
+      ],
+      "achievements": []
+    },
+    {
+      "organization": "Intellier Ltd.",
+      "role": "Junior Software Engineer",
+      "employmentType": "Full-time",
+      "startDate": "2022-10",
+      "endDate": "2023-04",
+      "current": false,
+      "location": "Dhaka, Bangladesh",
+      "description": "Supported senior engineers in building Flutter applications.",
+      "responsibilities": [
+        "Built responsive user interfaces and reusable widgets",
+        "Integrated APIs and managed application state",
+        "Delivered tasks within deadlines and reported progress on time"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "REST APIs"
+      ],
+      "achievements": []
+    }
+  ]
+}

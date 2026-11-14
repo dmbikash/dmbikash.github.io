@@ -1,0 +1,210 @@
+{
+  "title": "Selected work",
+  "intro": "Apps I've led for international development partners, government programmes and SaaS clients.",
+  "items": [
+    {
+      "slug": "gram-adalat",
+      "featured": true,
+      "preview": "phones",
+      "accent": "#1f8a7a",
+      "name": "Gram Adalat",
+      "category": "Civic tech · Accessibility",
+      "client": "UNDP Bangladesh, with support from the European Union",
+      "summary": "An accessible app that helps rural communities understand the Village Court Act, related laws and legal procedures.",
+      "description": [
+        "Gram Adalat makes village court law understandable for rural communities, people with disabilities and users who prefer to learn by listening. It was implemented under UNDP Bangladesh with support from the European Union, and prepared for official delivery to the Government of Bangladesh.",
+        "All legal content is verified and sourced directly from the Government's official law portal. The app needs no login, works offline, and lets users send feedback from inside the app."
+      ],
+      "highlights": [
+        "Audio-friendly learning modules",
+        "Text-to-speech for visually impaired users",
+        "Video tutorials and an FAQ module",
+        "Offline-capable, no login required",
+        "Accessibility settings: font size, colour inversion, monochrome, link and heading highlights",
+        "In-app user feedback"
+      ],
+      "role": "Lead Developer",
+      "year": "",
+      "stack": ["Flutter", "Dart", "Text-to-speech", "Offline-first", "Accessibility"],
+      "icon": "/images/projects/gram-adalat/icon.webp",
+      "cover": "/images/projects/gram-adalat/cover.webp",
+      "screenshots": [
+        "/images/projects/gram-adalat/screen-1.webp",
+        "/images/projects/gram-adalat/screen-2.webp",
+        "/images/projects/gram-adalat/screen-3.webp",
+        "/images/projects/gram-adalat/screen-4.webp"
+      ],
+      "links": {
+        "store": "https://play.google.com/store/apps/details?id=xyz.powern.gram_adalot",
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "slug": "nextcart",
+      "featured": true,
+      "accent": "#e8336d",
+      "name": "NextCart",
+      "category": "SaaS · Business operations",
+      "client": "",
+      "summary": "An omnichannel sales and business-operations platform for SMEs — POS, inventory, customers, vendors, staff and finance in one app.",
+      "description": [
+        "NextCart is a SaaS platform that helps small and medium businesses run their sales and day-to-day operations from one place. The app covers sales management, point of sale, product inventory, customer and vendor management, employee management and finance.",
+        "It was designed to be easy to understand for users with different levels of education and for people who don't speak English."
+      ],
+      "highlights": [
+        "Point of sale and sales management",
+        "Inventory, customer and vendor management",
+        "Employee and finance management",
+        "Designed for users of all education levels and non-English speakers"
+      ],
+      "role": "Lead App Developer",
+      "year": "",
+      "stack": ["Flutter", "Dart", "REST APIs", "SaaS"],
+      "icon": "/images/projects/nextcart/icon.webp",
+      "cover": "/images/projects/nextcart/cover.webp",
+      "screenshots": [
+        "/images/projects/nextcart/screen-1.webp",
+        "/images/projects/nextcart/screen-2.webp",
+        "/images/projects/nextcart/screen-3.webp",
+        "/images/projects/nextcart/screen-4.webp",
+        "/images/projects/nextcart/screen-5.webp"
+      ],
+      "links": {
+        "store": "https://play.google.com/store/apps/details?id=xyz.powern.nextcart",
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "slug": "shelter-management",
+      "accent": "#f39a2b",
+      "name": "Digital Occupancy & Shelter Management",
+      "category": "Humanitarian · Offline-first",
+      "client": "CARE Bangladesh",
+      "summary": "Two offline-first Android apps for emergency shelters — NFC and QR household registration, check-in/out and emergency SMS alerts.",
+      "description": [
+        "Two Flutter apps built for CARE Bangladesh's emergency shelter operations. The Data Collection app lets volunteers pre-register households by creating and reading NFC cards, scanning QR codes and entering data securely offline. Records sync automatically once the device reconnects.",
+        "The Occupancy app handles real-time shelter check-in and check-out through NFC, QR or manual search, also fully offline for low-connectivity disaster zones. An integrated emergency SMS alert lets shelter managers notify CARE administrators quickly. Both apps run on rugged Android devices in kiosk mode."
+      ],
+      "highlights": [
+        "NFC card creation and reading, QR scanning",
+        "Secure offline data entry with automatic sync",
+        "Real-time check-in and check-out",
+        "Emergency SMS alerts to administrators",
+        "Rugged Android devices in kiosk mode"
+      ],
+      "role": "Lead App Developer",
+      "year": "Nov 2024 — Jan 2025",
+      "stack": ["Flutter", "Dart", "NFC", "QR", "Offline sync", "Kiosk mode"],
+      "cover": "/images/projects/shelter-management/cover.webp",
+      "screenshots": [],
+      "links": { "store": null, "demo": null, "github": null }
+    },
+    {
+      "slug": "unpaid-work-calculator",
+      "preview": "phones",
+      "accent": "#3b8fd0",
+      "name": "Unpaid Work Calculator",
+      "category": "Full stack · Web",
+      "client": "UN Women",
+      "summary": "A bilingual calculator that puts a value on unpaid care and domestic work, with a Flutter frontend and a FastAPI backend.",
+      "description": [
+        "Built for UN Women's \"Unpaid, Not Unseen\" initiative. Users choose the tasks they do in a day — cooking, childcare, elderly care and more — and the time each takes, and the calculator estimates the value of that unpaid work.",
+        "I built both sides: a FastAPI (Python) backend and an interactive Flutter frontend, making sure the two communicate seamlessly so the calculations are accurate. The app is available in English and Bangla."
+      ],
+      "highlights": [
+        "Flutter web frontend with interactive task selection",
+        "FastAPI (Python) backend for the calculations",
+        "English and Bangla"
+      ],
+      "role": "Full Stack Developer",
+      "year": "Dec 2023 — present",
+      "stack": ["Flutter", "Dart", "FastAPI", "Python"],
+      "cover": "/images/projects/unpaid-work-calculator/cover.webp",
+      "screenshots": [
+        "/images/projects/unpaid-work-calculator/screen-1.webp",
+        "/images/projects/unpaid-work-calculator/screen-2.webp",
+        "/images/projects/unpaid-work-calculator/screen-3.webp"
+      ],
+      "links": {
+        "demo": "https://unpaid-work-calculator.web.app/#/calculator",
+        "store": null,
+        "github": null
+      }
+    },
+    {
+      "slug": "nijeke-jano",
+      "accent": "#2bb673",
+      "name": "Nijeke JANO",
+      "category": "Health · Education",
+      "client": "Directorate General of Family Planning, Government of Bangladesh",
+      "summary": "A health and well-being app for adolescents — cycle tracking, BMI and calories, habits, games and a Q&A section.",
+      "description": [
+        "Commissioned by the Directorate General of Family Planning (Health Education and Family Welfare Division), Nijeke JANO helps adolescents look after their health and well-being.",
+        "Features include menstruation cycle tracking, BMI and calorie tracking, a daily habit tracker, health-conscious games, and a knowledge quiz and Q&A section written for adolescents. The child-friendly UI is designed for a young audience while keeping user data secure."
+      ],
+      "highlights": [
+        "Menstruation cycle tracking",
+        "BMI and calorie tracking",
+        "Daily habit tracker",
+        "Health games, quiz and Q&A"
+      ],
+      "role": "Lead App Developer",
+      "year": "",
+      "stack": ["Flutter", "Dart"],
+      "cover": "/images/projects/nijeke-jano/cover.webp",
+      "screenshots": [],
+      "links": { "store": null, "demo": null, "github": null }
+    },
+    {
+      "slug": "biyer-juti",
+      "accent": "#c2405a",
+      "name": "Biyer Juti",
+      "category": "Social · Matchmaking",
+      "client": "",
+      "summary": "A matchmaking app built around Bangladeshi cultural norms, with ID verification, guardian involvement and privacy controls.",
+      "description": [
+        "Biyer Juti is a matchmaking platform designed for the cultural norms of Bangladesh. It emphasises transparency and mutual consent through official ID verification and guardian involvement.",
+        "The app offers a straightforward matchmaking process, a robust search engine for effective matching, and user controls that put privacy and security first."
+      ],
+      "highlights": [
+        "Official ID verification",
+        "Guardian involvement and mutual consent",
+        "Search engine for effective matching",
+        "Privacy and security controls"
+      ],
+      "role": "Lead App Developer",
+      "year": "",
+      "stack": ["Flutter", "Dart"],
+      "cover": "/images/projects/biyer-juti/cover.webp",
+      "screenshots": [],
+      "links": { "demo": "https://biyerjuti.bitflex.xyz/", "store": null, "github": null }
+    },
+    {
+      "slug": "quick-cv",
+      "accent": "#3a33a8",
+      "name": "Quick CV",
+      "category": "AI · Prompt engineering",
+      "client": "",
+      "summary": "An AI CV builder. I designed and refined the prompts that generate structured, ATS-friendly resumes.",
+      "description": [
+        "Quick CV is an AI-assisted CV and career-portfolio builder. I contributed by designing and refining the AI prompts that generate structured, high-quality resumes.",
+        "The prompts were optimised for accuracy, relevance and ATS-friendly formatting, so the system produces professional output for users quickly and consistently."
+      ],
+      "highlights": [
+        "Prompt design for structured resume generation",
+        "Optimised for accuracy, relevance and ATS formatting"
+      ],
+      "role": "Prompt Engineer",
+      "year": "Mar 2025 — present",
+      "stack": ["Prompt engineering", "LLMs", "ATS optimisation"],
+      "cover": "/images/projects/quick-cv/cover.webp",
+      "screenshots": [
+        "/images/projects/quick-cv/screen-1.webp",
+        "/images/projects/quick-cv/screen-2.webp"
+      ],
+      "links": { "demo": "https://createquickcv.com/", "store": null, "github": null }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Technical skills",
+  "intro": "Tools and technologies I use in production. No percentage bars — just what I work with.",
+  "categories": [
+    {
+      "name": "Mobile Development",
+      "icon": "mobile",
+      "featured": true,
+      "description": "Cross-platform apps for Android, iOS and the web from a single Flutter codebase.",
+      "skills": ["Flutter", "Dart", "Android", "iOS", "Flutter Web", "Provider"]
+    },
+    {
+      "name": "Real-time Communication",
+      "icon": "realtime",
+      "featured": true,
+      "description": "Peer-to-peer audio and video calling and live data.",
+      "skills": ["WebRTC", "WebSocket", "STUN/TURN"]
+    },
+    {
+      "name": "Backend & APIs",
+      "icon": "server",
+      "description": "Connecting apps to services securely and reliably.",
+      "skills": ["REST APIs", "Third-party APIs", "Firebase", "Authentication", "FastAPI (Python)"]
+    },
+    {
+      "name": "Device & Offline",
+      "icon": "offline",
+      "description": "Apps that keep working in the field and at the edge of connectivity.",
+      "skills": ["Offline-first sync", "NFC", "QR scanning", "Kiosk mode", "Text-to-speech", "Accessibility"]
+    },
+    {
+      "name": "Leadership & Delivery",
+      "icon": "team",
+      "description": "Taking projects from requirements to release.",
+      "skills": ["Architecture decisions", "Code review", "Mentoring", "Play Store releases", "Trello"]
+    },
+    {
+      "name": "Tools",
+      "icon": "tools",
+      "description": "Day-to-day engineering toolchain.",
+      "skills": ["Git", "Android Studio", "Xcode", "VS Code"]
+    }
+  ]
+}

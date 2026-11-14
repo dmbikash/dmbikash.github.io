@@ -1,0 +1,12 @@
+{
+  "title": "Let's build something that ships.",
+  "intro": "I'm interested in mobile engineering roles with international teams. The fastest way to reach me is email or LinkedIn. References are available on request.",
+  "email": "dmbikash5@gmail.com",
+  "showCv": true,
+  "form": {
+    "enabled": true,
+    "provider": "web3forms",
+    "accessKey": "",
+    "subject": "New message from your portfolio"
+  }
+}

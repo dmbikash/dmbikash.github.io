@@ -1,0 +1,16 @@
+{
+  "title": "Education",
+  "items": [
+    {
+      "degree": "BSc in Computer Science and Engineering",
+      "institution": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "startYear": "2018",
+      "graduationYear": "2022",
+      "grade": { "label": "CGPA", "value": "3.58", "scale": "4.00" },
+      "description": "",
+      "coursework": [],
+      "thesis": ""
+    }
+  ]
+}

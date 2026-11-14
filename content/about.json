@@ -1,0 +1,20 @@
+{
+  "title": "Engineering mobile software that holds up in the real world.",
+  "biography": [
+    "I'm a mobile application engineer with four years of experience, specialising in Flutter and Dart. I've led apps from first requirements to production — making architecture decisions, planning tasks, reviewing code and shipping releases to the Play Store.",
+    "My work spans accessible public-service apps for UNDP Bangladesh and the Government of Bangladesh, a UN Women calculator with a FastAPI backend, offline-first NFC apps for CARE Bangladesh's emergency shelters, and a SaaS platform for small businesses. I currently work as a Mobile Application Developer with the Bangladesh Army, and I hold a BSc in Computer Science and Engineering from BRAC University."
+  ],
+  "philosophy": "Good mobile software is invisible: it starts fast, works offline when it has to, and is usable by everyone — including people with low literacy or visual impairments. I favour clear architecture, small well-tested units and measuring performance before optimising it.",
+  "experienceSummary": "Four years building and leading production Flutter apps: REST and third-party API integration, Firebase, state management, offline sync, accessibility and release management — while mentoring junior developers and interns.",
+  "interests": [
+    "Mobile application architecture",
+    "Real-time communication",
+    "WebRTC",
+    "Audio & video calling",
+    "Backend & API integration",
+    "Performance optimisation",
+    "Cross-platform development",
+    "Software engineering best practices"
+  ],
+  "objectives": "[[Your career objective — e.g. the kind of team, product or role you want next, and whether you're open to remote work or relocation.]]"
+}
